@@ -1,11 +1,11 @@
 {"type":"FeatureCollection","features":
  [{"type":"Feature","properties":
    {"marker-size": "medium",
-    "marker-symbol": "house",
+    "marker-symbol": "bus",
     "marker-color": "#fff",
     "fill": "#555555",
     "fill-opacity": 0.5,
     "name":"Math Coffee & Donut Shop",
     "address_fu":"200 University Ave W 3002 Waterloo Waterloo ON N2L3G1 CA"},
-   "geometry":{"type":"Point","coordinates":[-80.54359926,43.4719005]}}
+   "geometry":{"type":"Point","coordinates":[-80.54359926,43.4719005]}},
   ]}
