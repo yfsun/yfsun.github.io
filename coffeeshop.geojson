@@ -1,2 +1,15 @@
 {"type":"FeatureCollection",
-  "features":[{"type":"Feature","properties":{"description":"this is a test desription","FID":0,"created_at":"2016-09-26 14:02:18 UTC","created_by":"hyren@uwaterloo.ca","system_cre":"2016-09-26 14:10:52 UTC","version":2,"name":"Math Coffee & Donut Shop","address_su":200,"address_th":"University Ave W","address__1":3002,"address_lo":"Waterloo","address__2":"Waterloo","address_ad":"ON","address_po":"N2L3G1","address_co":"CA","address_fu":"200 University Ave W 3002 Waterloo Waterloo ON N2L3G1 CA","time":"10:02","building_n":"Mathematics and Computer","room_numbe":3002,"open_after":"yes","student_ru":"no","total_numb":52.5,"takes_cash":"yes","takes_watc":"no","takes_debi":"yes","takes_cred":"yes","drinks_ava":"Coffee,Juice,Water,Milk,Pop/Soda,Tea,Energy Drinks","drinks_a_1":" ","coffee_pri":0.75,"coffee_p_1":"1.00","coffee_p_2":1.25,"tea_price_":0.75,"chocolate_":2.75,"can_of_pop":1.25,"other_prod":"Sandwiches/Wraps,Hot Food,Cookies,Muffins,Donuts,Chips/Snacks,Chocolate Bars,Candy,Salads","other_pr_1":" ","muffin_pri":"1.10","chocolate1":"1.10","atmosphere":5,"photo_of_l":"f8a89748-fe25-45a6-a8f4-f79da79d0098","photo_of_1":" ","photo_of_2":"https://web.fulcrumapp.com/photos/view?photos=f8a89748-fe25-45a6-a8f4-f79da79d0098"},"geometry":{"type":"Point","coordinates":[-80.54359926,43.4719005]}}
+  "features":[
+    {"type":"Feature","properties":{"description":"this is a test desription","FID":0,"created_at":"2016-09-26 14:02:18 UTC",
+      "created_by":"hyren@uwaterloo.ca",
+      "system_cre":"2016-09-26 14:10:52 UTC","version":2,
+      "name":"Math Coffee & Donut Shop","address_su":200,"address_th":"University Ave W","address__1":3002,
+      "address_lo":"Waterloo","address__2":"Waterloo","address_ad":"ON","address_po":"N2L3G1","address_co":"CA",
+      "address_fu":"200 University Ave W 3002 Waterloo Waterloo ON N2L3G1 CA","time":"10:02","building_n":"Mathematics and Computer",
+      "room_numbe":3002,"open_after":"yes","student_ru":"no","total_numb":52.5,"takes_cash":"yes","takes_watc":"no","takes_debi":"yes",
+      "takes_cred":"yes","drinks_ava":"Coffee,Juice,Water,Milk,Pop/Soda,Tea,Energy Drinks","drinks_a_1":" ","coffee_pri":0.75,
+      "coffee_p_1":"1.00","coffee_p_2":1.25,"tea_price_":0.75,"chocolate_":2.75,"can_of_pop":1.25,
+      "other_prod":"Sandwiches/Wraps,Hot Food,Cookies,Muffins,Donuts,Chips/Snacks,Chocolate Bars,Candy,Salads",
+      "other_pr_1":" ","muffin_pri":"1.10","chocolate1":"1.10","atmosphere":5,"photo_of_l":"f8a89748-fe25-45a6-a8f4-f79da79d0098",
+      "photo_of_1":" ","photo_of_2":"https://web.fulcrumapp.com/photos/view?photos=f8a89748-fe25-45a6-a8f4-f79da79d0098"},
+      "geometry":{"type":"Point","coordinates":[-80.54359926,43.4719005]}}]}
