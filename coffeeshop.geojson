@@ -8,7 +8,7 @@
         "description": "A description",
         "properties": {
             "title": "A title",
-"description": "A description",
+"popupContent": "A description",
             "marker-size": "medium",
             "marker-symbol": "bus",
             "marker-color": "#fff",
