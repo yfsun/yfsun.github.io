@@ -3,7 +3,8 @@
     {
     "type":"Feature",
     "properties":{
-      "description":"this is a test desription"
+      "description":"this is a test desription",
+      "title": "This is a title"
       },
       "geometry":{
         "type":"Point",
