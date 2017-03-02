@@ -5,9 +5,10 @@
             "type": "Point",
             "coordinates": [0, 0]
         },
+        "description": "A description",
         "properties": {
             "title": "A title",
-            "description": "A description",
+"description": "A description",
             "marker-size": "medium",
             "marker-symbol": "bus",
             "marker-color": "#fff",
